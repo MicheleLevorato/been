@@ -1,48 +1,48 @@
 # Europe
 
 - [ ] AL Albania
-- [ ] AT Austria
-- [x] BY Belarus
-- [ ] BE Belgium
-- [ ] BA Bosnia and Herzegovina
-- [ ] BG Bulgaria
-- [ ] HR Croatia
+- [x] AT Austria
+- [ ] BY Belarus
+- [x] BE Belgium
+- [x] BA Bosnia and Herzegovina
+- [x] BG Bulgaria
+- [x] HR Croatia
 - [x] CZ Czech Republic
 - [x] DK Denmark
-- [x] EE Estonia
-- [x] FI Finland
+- [ ] EE Estonia
+- [ ] FI Finland
 - [x] FR France
 - [x] DE Germany
 - [ ] GR Greece
-- [ ] HU Hungary
+- [x] HU Hungary
 - [ ] IS Iceland
-- [ ] IE Ireland
+- [x] IE Ireland
 - [x] IT Italy
 - [ ] XK Kosovo
-- [x] LV Latvia
-- [x] LT Lithuania
-- [ ] LU Luxembourg
+- [ ] LV Latvia
+- [ ] LT Lithuania
+- [x] LU Luxembourg
 - [ ] MK Macedonia
-- [x] MD Moldova
+- [ ] MD Moldova
 - [ ] ME Montenegro
 - [x] NL Netherlands
-- [ ] NO Norway
-- [x] PL Poland
+- [x] NO Norway
+- [ ] PL Poland
 - [x] PT Portugal
-- [ ] RO Romania
-- [ ] RS Serbia
+- [x] RO Romania
+- [x] RS Serbia
 - [ ] SK Slovakia
-- [ ] SI Slovenia
+- [x] SI Slovenia
 - [x] ES Spain
-- [ ] SE Sweden
+- [x] SE Sweden
 - [x] CH Switzerland
-- [x] UA Ukraine
+- [ ] UA Ukraine
 - [x] GB United Kingdom
 
 # Asia
 
 - [ ] AF Afghanistan
-- [x] AM Armenia
+- [ ] AM Armenia
 - [ ] AZ Azerbaijan
 - [ ] BD Bangladesh
 - [ ] BT Bhutan
@@ -50,18 +50,18 @@
 - [ ] CN China
 - [ ] GE Georgia
 - [ ] IN India
-- [ ] ID Indonesia
+- [x] ID Indonesia
 - [ ] IR Iran
 - [ ] IQ Iraq
 - [ ] IL Israel
-- [x] JP Japan
+- [ ] JP Japan
 - [ ] JO Jordan
 - [ ] KZ Kazakhstan
 - [ ] KW Kuwait
 - [ ] KG Kyrgyzstan
 - [ ] LA Lao People's Democratic Republic
 - [ ] LB Lebanon
-- [ ] MY Malaysia
+- [x] MY Malaysia
 - [ ] MN Mongolia
 - [ ] MM Myanmar
 - [ ] NP Nepal
@@ -82,7 +82,7 @@
 - [ ] TL Timor-Leste
 - [ ] TR Turkey
 - [ ] TM Turkmenistan
-- [x] AE United Arab Emirates
+- [ ] AE United Arab Emirates
 - [ ] UZ Uzbekistan
 - [ ] VN Vietnam
 - [ ] YE Yemen
@@ -91,9 +91,9 @@
 
 - [ ] CA Canada
 - [ ] GL Greenland
-- [x] MX Mexico
+- [ ] MX Mexico
 - [ ] SJ Svalbard and Jan Mayen
-- [x] US United States
+- [ ] US United States
 
 # Central America
 
@@ -114,24 +114,24 @@
 
 # South America
 
-- [ ] AR Argentina
+- [x] AR Argentina
 - [ ] BO Bolivia
-- [ ] BR Brazil
-- [ ] CL Chile
+- [x] BR Brazil
+- [x] CL Chile
 - [ ] CO Colombia
 - [ ] EC Ecuador
 - [ ] FK Falkland Islands
 - [ ] GF French Guiana
 - [ ] GY Guyana
-- [ ] PY Paraguay
-- [x] PE Peru
+- [x] PY Paraguay
+- [ ] PE Peru
 - [ ] SR Suriname
-- [ ] UY Uruguay
+- [x] UY Uruguay
 - [ ] VE Venezuela
 
 # Oceania
 
-- [x] AU Australia
+- [ ] AU Australia
 - [ ] FJ Fiji
 - [ ] TF French Southern and Antarctic Lands
 - [ ] NC New Caledonia
@@ -165,7 +165,7 @@
 - [ ] GH Ghana
 - [ ] GN Guinea
 - [ ] GW Guinea-Bissau
-- [x] KE Kenya
+- [ ] KE Kenya
 - [ ] LS Lesotho
 - [ ] LR Liberia
 - [ ] LY Libya
@@ -173,7 +173,7 @@
 - [ ] MW Malawi
 - [ ] ML Mali
 - [ ] MR Mauritania
-- [ ] MA Morocco
+- [x] MA Morocco
 - [ ] MZ Mozambique
 - [ ] NA Namibia
 - [ ] NE Niger
@@ -189,7 +189,7 @@
 - [ ] SZ Swaziland
 - [ ] TZ Tanzania
 - [ ] TG Togo
-- [x] TN Tunisia
+- [ ] TN Tunisia
 - [ ] UG Uganda
 - [ ] EH Western Sahara
 - [ ] ZM Zambia
